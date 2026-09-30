@@ -1,16 +1,19 @@
 ## Hi there 👋
 
-<!--
-**Daix18/Daix18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Programador de videojuegos recién graduado en Diseño y Desarrollo de Videojuegos y Entornos Virtuales (UDIT Madrid). Especializado en Unity y C#, con experiencia profesional en MaxValley y PlopStudios.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologías
+- Unity (5 años) · C# (4 años)
+- Unreal Engine (2 años) · C++ (2 años)
+- Git / GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Proyectos destacados
+- [TFG — Generación Dinámica de Horror en Videojuegos](https://github.com/Daix18/TFG) — investigación experimental en Unity sobre técnicas de terror dinámico.
+- [Peccatorum](https://github.com/Daix18/Peccatorum) — metroidvania 2D con bosses y soporte para mando.
+- [Gwrach](https://github.com/Daix18/Gwrach) — videojuego 2D isométrico con diálogos y combate.
+- [The Track of the Castle](https://github.com/Daix18/The-Track-Of-The-Castle) — mi primer proyecto personal: puzzles y escape room en 3D.
+
+## 📫 Contacto
+- Email: danizaguirre10@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/daniel-izaguirre-montalvo-450866206)
+- [Web / portfolio](https://daix18.github.io)
